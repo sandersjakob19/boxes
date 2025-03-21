@@ -7,5 +7,4 @@ to look at a pattern in which composites occur. Some more mathematical
 meddling gives you a quadratic equation for numbers 5mod6. This
 test is not faster than a standard test.
 
-For some reason, it thinks multiples of 5 are prime, so
-ignore that.
+For some reason, it is giving false positives.
